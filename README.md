@@ -2,16 +2,12 @@
 
 Minimalist, high-performance starter with multi-stage Docker/Nginx orchestration.
 
----
-
 ## 🛠️ Tech Stack
 
 - **Build Tool:** Vite
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Server:** Nginx
-
----
 
 ## 📦 Local Development
 
@@ -28,7 +24,7 @@ npm run preview
 ### Included packages
 
 - `vite-tsconfig-paths`
-- `prettier@3.6.2`
+- `prettier`
 - `prettier-plugin-tailwindcss`
 - `eslint-config-prettier`
 
